@@ -21,3 +21,6 @@ You can install the required packages using pip:
 ```shell
 pip install numpy pandas scikit-learn matplotlib
 
+## clone
+https://github.com/potnururohit/Submarine-Rock-Vs-Mine-Prediction.git
+
